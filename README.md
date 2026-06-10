@@ -1,89 +1,46 @@
-<h1>👋 ¡Hola! Soy Francisco Javier Sánchez Cabezuelo</h1>
+# Francisco Javier Sánchez
 
-<p>
-  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"></a>
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB"><img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-brightgreen?style=for-the-badge" alt="Seeking Opportunities"></a>
-</p>
+### **DevOps Engineer | Cloud & GitOps Specialist**  
+📍 España — Remoto | ☁️ AWS / Azure | Infrastructure as Code
 
-<p>
-  Soy un <strong>DevOps & Cloud Engineer</strong> apasionado por la automatización de infraestructuras, el diseño de arquitecturas cloud robustas y la cultura de integración y despliegue continuos (CI/CD). Mi enfoque principal se centra en garantizar la escalabilidad, alta disponibilidad y eficiencia de las cargas de trabajo en la nube, optimizando los ciclos de vida del desarrollo de software.
-</p>
+Diseño, despliego y opero infraestructura en la nube con un enfoque práctico en Terraform, contenedores, arquitecturas CI/CD bajo filosofía GitOps, seguridad, observabilidad y troubleshooting para entornos reales.
 
-<hr>
+---
 
-<h2>🚀 Sobre Mí</h2>
-<ul>
-  <li>🛠️ <strong>Enfoque Actual:</strong> Despliegue de infraestructura como código (IaC), orquestación de contenedores y automatización de pipelines.</li>
-  <li>🎓 <strong>Certificaciones:</strong> Orgulloso <strong>AWS Certified Cloud Practitioner</strong> y preparándome activamente para los exámenes <strong>AWS Certified Solutions Architect</strong> y <strong>CKAD (Certified Kubernetes Application Developer)</strong>.</li>
-  <li>🌱 <strong>Aprendizaje Continuo:</strong> Explorando arquitecturas Serverless avanzadas, GitOps con ArgoCD y monitorización profunda en entornos de microservicios.</li>
-  <li>💬 <strong>Intereses profesionales:</strong> Colaborar en proyectos desafiantes basados en metodologías DevOps, migración a la nube y optimización de costes (FinOps).</li>
-</ul>
+### **🔗 Conectividad y Portafolio**
+*   **Portafolio Web:** [javisanz23.github.io](https://javisanz23.github.io/) — *Explora mis proyectos con demos visuales y métricas de impacto.*
+*   **Redes:** [LinkedIn](https://www.linkedin.com/in/f%C2%BA-javier-s%C3%A1nchez-cabezuelo-698a7b3bb/) · [Email](mailto:javisanz23@gmail.com)
+*   **Currículum:** [Descargar CV](https://javisanz23.github.io/CV_Francisco_Javier.pdf)
 
-<hr>
+---
 
-<h2>🛠️ Tecnologías y Herramientas (Tech Stack)</h2>
+### **🚀 Enfoque Técnico e Ingeniería**
+*   **Cultura GitOps:** Erradicación de procesos manuales, asegurando la reproducibilidad de entornos productivos e inmutabilidad de la infraestructura.
+*   **CI/CD & Branching:** Diseño de pipelines optimizados (GitHub Actions, Jenkins) basados en Feature Branches y GitFlow con control de compilación, testing y versionado dinámico.
+*   **Orquestación y Resiliencia:** Administración avanzada de clústeres Kubernetes, Ingress, certificados SSL, inyección segura de Secrets y troubleshooting en tiempo real con K9s.
+*   **Certificaciones:** AWS Certified Cloud Practitioner *(preparándome activamente para AWS Solutions Architect y CKAD)*.
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Categoría</th>
-      <th align="left">Tecnologías y Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Cloud Computing</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-        <img src="https://img.shields.io/badge/LocalStack-1D2434?style=flat-square&logo=localstack&logoColor=white" alt="LocalStack">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Contenedores y Orquestación</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Infraestructura como Código (IaC)</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Automatización y CI/CD</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-        <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Sistemas Operativos</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<hr>
+### **🛠️ Competencias Críticas**
+*   **Cloud Pública:** AWS (EC2, RDS, ECS Fargate, ALB, CloudWatch) & Azure.
+*   **Infraestructura como Código:** Modularización avanzada con Terraform.
+*   **Automatización & Scripting:** Automatización de tareas complejas en Linux System con Bash y desarrollo con Python.
+*   **Observabilidad:** Recolección de métricas y telemetría en tiempo real mediante Prometheus y Grafana.
 
-<h2>📊 Estadísticas de GitHub</h2>
+---
 
+### **🌌 Proyectos Destacados (Insignia)**
+
+*   **[GitOps Platform con IA](https://github.com/javisanz23/gitops-platform):** Pipeline DevSecOps autónomo de nivel de producción. Integra escaneo de vulnerabilidades, Policy-as-Code (OPA/Conftest) y un agente de IA que auto-remedia el entorno abriendo Pull Requests automáticas en menos de 30 segundos.
+*   **[KubePulse](https://github.com/javisanz23/kubepulse):** Pipeline integral de CI/CD para microservicios distribuidos. Compilación automatizada, optimización de capas de caché Docker (reducción del 40% del tiempo de build) y despliegue seguro en K8s mediante cifrado estricto con `SecretKeyRef`.
+*   **[GitOps Pipeline & ArgoCD](https://github.com/javisanz23/k8s-gitops-manifests):** Implementación de un flujo GitOps real aislando el repositorio de código de la infraestructura, logrando una sincronización automatizada de recursos del clúster en <10 segundos tras cada push.
+*   **[sysops-shield](https://github.com/javisanz23/sysops-shield):** Despliegue modular y reutilizable con Terraform para arquitecturas de red aisladas en AWS (VPC subredes públicas/privadas), garantizando aislamiento estricto de capas de cómputo.
+
+---
+
+### **📊 Estadísticas**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radial" alt="Lenguajes más usados" height="180">
-</p>
-
-<hr>
-
-<h2>📫 Conéctate Conmigo</h2>
-<p>
-  Si quieres hablar sobre Cloud, DevOps, Kubernetes o discutir alguna oportunidad laboral, no dudes en contactarme:
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/f%C2%BA-javier-s%C3%A1nchez-cabezuelo-698a7b3bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:javisanz23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=javisanz23&show_icons=true&theme=neutral&hide_border=true" alt="Estadísticas de javisanz23" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javisanz23&layout=compact&theme=neutral&hide_border=true" alt="Lenguajes" height="150">
 </p>
